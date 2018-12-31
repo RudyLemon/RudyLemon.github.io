@@ -61,7 +61,6 @@ props-通常存储一些方法，一些可能需要库存的长期数据和一�
 要么React从Redux的state中读取数据，要么React通过dispatch分发action到Redux,Redux的reducer来返回一个新的state。
 
 结论是Redux的state存放的是全局的长期数据，也就是对应的React组件的Props数据，而组件React的state应该是临时的内部状态数据，所以这两个state没有半毛钱关系。
-***
 
 ## 下面我们总结一下Redux的三大原则和数据流的管理：
 

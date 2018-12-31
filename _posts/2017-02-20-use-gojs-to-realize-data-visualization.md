@@ -57,6 +57,7 @@ new go.binding("strokeWidth","width");
 举例说明，比如为node添加鼠标事件，通过给其属性添加相应方法进行事件绑定：
 ```java
 {mouseEnter:onNodeMouseEnter}
+
 function onNodeMouseEnter(){
    //do something
 }

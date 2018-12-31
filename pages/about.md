@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 追梦赤子心_Rudy
+keywords: Rudy
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+不忘初心，
 
-仰慕「优雅编码的艺术」。
+自律，专注，
 
-坚信熟能生巧，努力改变人生。
+刻意练习---金融分析师^_^
 
 ## 联系
 

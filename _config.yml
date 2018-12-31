@@ -95,14 +95,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: Rudy
+    owner: RudyLemon
     repo: blog-comments
     oauth:
         client_id: 3e61fe30daad7389b66b
         client_secret: 1fcd96b969569b020bd3d6d80507d7ca1a0ff966
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: Rudy
+    owner: RudyLemon
     repo: blog-comments
     clientID: 3e61fe30daad7389b66b
     clientSecret: 1fcd96b969569b020bd3d6d80507d7ca1a0ff966

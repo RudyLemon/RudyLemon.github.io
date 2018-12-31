@@ -5,7 +5,7 @@ baseurl:
 url: https://rudy.org.cn
 date_format: "ordinal"
 title: "追梦赤子心_Rudy"
-subtitle: "不忘初心，自律，专注，刻意练习---金融分析师^_^"
+subtitle: "不忘初心，自律，专注，刻意练习^_^"
 description: "Rudy的个人博客"
 keywords: Rudy
 timezone: Asia/Shanghai
@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Rudy
-organization: 
-organization_url: 
+#organization: 
+#organization_url: 
 github_username: RudyLemon
 location: Xi'an, China
 email: rudy.org.cn@gmail.com
